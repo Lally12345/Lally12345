@@ -5,8 +5,6 @@
 ## About me
 - 🔭 I’m currently working at **IBM**
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 📫 How to reach me **Lallypradhan16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
